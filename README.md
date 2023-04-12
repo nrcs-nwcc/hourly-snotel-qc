@@ -1,6 +1,6 @@
 # hourly-snotel-qc
 
-This workflow build on STAR★Methods published in Heggli et al., 2022 (https://doi.org/10.1016/j.isci.2022.104240). The data and code published here is free to use, but please cite the origional paper with the peer reviewed STAR★Methods when using the data or this code. This code reflects improvements to the orgional code and presented at 2023 Western Snow Conference.
+This workflow build on STAR★Methods published in Heggli et al., 2022 (https://doi.org/10.1016/j.isci.2022.104240). The data and code published here is free to use, but please cite the origional paper with the peer reviewed STAR★Methods when using the data or this code. This code reflects improvements to the orgional code and presented at 2023 Western Snow Conference. Level 3 hand cleaned data produced by Anne Heggli with these methods can by found in this repository.
 
 PRIOR TO USE PLEASE UNDERSTAND:
 The temperature parameter incorporates the NOAA9 9th order polynomial bias correction issued by the NRCS in the Level 1 data process. 
