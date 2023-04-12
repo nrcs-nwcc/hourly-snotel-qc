@@ -4,9 +4,9 @@ This workflow build on STAR★Methods published in Heggli et al., 2022 (https://
 
 PRIOR TO USE PLEASE UNDERSTAND:
 The temperature parameter incorporates the NOAA9 9th order polynomial bias correction issued by the NRCS in the Level 1 data process. 
-The code includes an experimental precipitation QC process that should be used with an abundance of caution as precipication gauges expereience snow plug that can result in entire snowfall events to be missed. The missing precipitation data cause by a snowplug can only be corrected if there is reliable SWE data. 
-This is an evolving workflow that is a step towards improving the quality of hourly SNOTEL data. I do expect to improve upon these methods in the coming years and I hope that others will join and collaborate to improve the code and process so that we may all be able to make use of the rich data set. 
-This data process is not an official product of the NRCS and should not be reflected as one in any research. It is just one method to make use of their data.
+The code includes an experimental precipitation QC process that should be used with an abundance of caution as precipication gauges expereience snow plugs that can result in entire snowfall events to be missed for days to weeks on end.
+This is an evolving workflow that is a step towards improving the quality of hourly SNOTEL data. I do expect to improve upon these methods in the coming years and I hope that others will collaborate to improve the code and process so that we may all be able to make use of the rich data set. 
+This data process is not an official product of the NRCS and should not be reflected as one in any research. It is just one method to make use of the SNOTEL network data.
 
 HOW TO USE THE CODE:
 These files are designed to be used consectively. 
